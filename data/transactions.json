@@ -1,98 +1,134 @@
 [
-  {
-  "id": 1,
-  "name": "Salary from Google",
-  "type": "income",
-  "amount": 1000000
-},
-{
-  "id": 2,
-  "name": "Family Expenses",
-  "type": "expense",
-  "amount": 200000
-},
-{
-  "name": "fedemev",
-  "type": "income",
-  "amount": 120444,
-  "id": 3
-},
-{
-  "name": "react-redux-blog",
-  "type": "income",
-  "amount": 45000,
-  "id": 4
-},
-{
-  "name": "mobile service",
-  "type": "expense",
-  "amount": 1000,
-  "id": 5
-},
-{
-  "name": "other",
-  "type": "expense",
-  "amount": 10000,
-  "id": 6
-},
-{
-  "name": "internet",
-  "type": "income",
-  "amount": 500,
-  "id": 7
-},
-{
-  "name": "dummy i",
-  "type": "expense",
-  "amount": 19000,
-  "id": 8
-},
-{
-    "id": 9,
-    "name": "Salary from facebook",
-    "type": "income",
-    "amount": 1000000
-  },
-  {
-    "id": 10,
-    "name": "Family Expenses",
-    "type": "expense",
-    "amount": 200000
-  },
-  {
-    "name": "dummy income",
-    "type": "income",
-    "amount": 120444,
-    "id": 11
-  },
-  {
-    "name": "react",
-    "type": "income",
-    "amount": 45000,
-    "id": 12
-  },
-  {
-    "name": "mobile service 2",
-    "type": "expense",
-    "amount": 1000,
-    "id": 13
-  },
-  {
-    "name": "other cost",
-    "type": "expense",
-    "amount": 10000,
-    "id": 14
-  },
-  {
-    "name": "internet bill",
-    "type": "income",
-    "amount": 500,
-    "id": 15
-  },
-  {
-    "name": "dummy i cost",
-    "type": "expense",
-    "amount": 19000,
-    "id": 16
-  }
+    {
+        "id": 1,
+        "name": "Salary from Google",
+        "type": "income",
+        "amount": 1000000
+    },
+    {
+        "id": 2,
+        "name": "Family Expenses",
+        "type": "expense",
+        "amount": 200000
+    },
+    {
+        "name": "fedemev",
+        "type": "income",
+        "amount": 120444,
+        "id": 3
+    },
+    {
+        "name": "react-redux-blog",
+        "type": "income",
+        "amount": 45000,
+        "id": 4
+    },
+    {
+        "name": "mobile service",
+        "type": "expense",
+        "amount": 1000,
+        "id": 5
+    },
+    {
+        "name": "other",
+        "type": "expense",
+        "amount": 10000,
+        "id": 6
+    },
+    {
+        "name": "internet",
+        "type": "income",
+        "amount": 500,
+        "id": 7
+    },
+    {
+        "name": "dummy i",
+        "type": "expense",
+        "amount": 19000,
+        "id": 8
+    },
+    {
+        "id": 9,
+        "name": "Salary from facebook",
+        "type": "income",
+        "amount": 1000000
+    },
+    {
+        "id": 10,
+        "name": "Family Expenses",
+        "type": "expense",
+        "amount": 200000
+    },
+    {
+        "name": "dummy income",
+        "type": "income",
+        "amount": 120444,
+        "id": 11
+    },
+    {
+        "name": "react",
+        "type": "income",
+        "amount": 45000,
+        "id": 12
+    },
+    {
+        "name": "mobile service 2",
+        "type": "expense",
+        "amount": 1000,
+        "id": 13
+    },
+    {
+        "name": "other cost",
+        "type": "expense",
+        "amount": 10000,
+        "id": 14
+    },
+    {
+        "name": "internet bill",
+        "type": "income",
+        "amount": 500,
+        "id": 15
+    },
+    {
+        "name": "dummy i cost",
+        "type": "expense",
+        "amount": 19000,
+        "id": 16
+    },
+    {
+        "name": "internet bill",
+        "type": "income",
+        "amount": 500,
+        "id": 17
+    },
+    {
+        "name": "dummy i cost",
+        "type": "expense",
+        "amount": 19000,
+        "id": 18
+    },
+    {
+        "name": "internet bill",
+        "type": "income",
+        "amount": 500,
+        "id": 19
+    },
+    {
+        "name": "dummy i cost",
+        "type": "expense",
+        "amount": 19000,
+        "id": 20
+    },
+    {
+        "name": "internet bill",
+        "type": "income",
+        "amount": 500,
+        "id": 21
+    },
+    {
+        "name": "dummy i cost",
+        "type": "expense",
+        "amount": 19000,
+        "id": 22
+    }
 ]
